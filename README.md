@@ -20,7 +20,7 @@ To share this extension with your friend or others easily via git:
 4. Link it to your GitHub repository and push it (replace `YOUR_USERNAME` with your real username):
    ```bash
    git branch -M main
-   git remote add origin https://github.com/YOUR_USERNAME/waybar-cava.git
+   git remote add origin https://github.com/EchoBolt-07/waybar-cava.git
    git push -u origin main
    ```
 
@@ -31,7 +31,7 @@ All your friend needs to do on their machine is open a terminal and run:
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/waybar-cava.git
+git clone https://github.com/EchoBolt-07/waybar-cava.git
 
 # Navigate into the folder
 cd waybar-cava
