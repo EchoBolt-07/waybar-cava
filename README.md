@@ -4,30 +4,9 @@ A responsive CAVA waveform extension for HyDE/Waybar. The waveform is rendered d
 
 ## Setup Instructions
 
-### 1. Host it on your GitHub
-To share this extension with your friend or others easily via git:
-1. Open your terminal in this directory:
-   ```bash
-   cd ~/waybar-cava
-   ```
-2. Initialize git and commit the files:
-   ```bash
-   git init
-   git add .
-   git commit -m "Initial release of waybar-cava extension"
-   ```
-3. Create a **new public repository** on GitHub named `waybar-cava`.
-4. Link it to your GitHub repository and push it (replace `YOUR_USERNAME` with your real username):
-   ```bash
-   git branch -M main
-   git remote add origin https://github.com/EchoBolt-07/waybar-cava.git
-   git push -u origin main
-   ```
 
----
-
-### 2. How your Friend Can Use It (Cloning & Installing)
-All your friend needs to do on their machine is open a terminal and run:
+### How to install (Cloning & Installing)
+open a terminal and run:
 
 ```bash
 # Clone the repository
