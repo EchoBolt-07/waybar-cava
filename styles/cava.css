@@ -1,0 +1,14 @@
+
+#custom-cava {
+    font-family: "JetBrains Mono", "MesloLGS Nerd Font", "FantasqueSansM Nerd Font", "DejaVu Sans Mono", monospace;
+    font-size: 16px;
+    color: @main-fg;
+    background: transparent;
+    padding: 0 10px;
+    margin: 0;
+}
+
+#custom-cava.empty {
+    padding: 0;
+    margin: 0;
+}
